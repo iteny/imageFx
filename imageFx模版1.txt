@@ -1,0 +1,526 @@
+参考这个提示词的格式
+Exquisitely built UI design that simulates operating medieval pixel games, with magical fantasy elements. In the center, there is a delicate knight's coat of arms that combines wings and a long sword, mainly dark green and gold , and a skull icon at the top
+来一个卡通足球游戏的提示词
+Vividly designed UI for a cartoon - style football game, filled with dynamic and energetic elements. In the middle, there is a big, colorful football with patterns of various cartoon characters like funny little elves and cute mascots. The main color scheme is bright orange and sky - blue, creating a lively atmosphere. And at the bottom, there are small, animated icons of football boots kicking the ball
+再来一个卡通篮球游戏的提示词
+Vibrantly crafted UI design for a cartoon basketball game, radiating with a sense of fun and excitement. In the center, there's a prominently displayed, oversized basketball emblazoned with a cool street - art - style logo of a basketball - shooting cartoon character. The dominant colors are electric purple and lime green, giving off a modern and energetic vibe. At the top, there's a small, floating hoop with a net that sways gently, and on the sides, there are animated icons of basketball players performing amazing dunks.
+再来一个卡通便利店游戏的提示词
+Delightfully designed UI for a cartoon - themed convenience store game, brimming with charming and inviting elements. In the center, there is a well - stocked display shelf filled with all kinds of cute - packaged items, such as drinks with cartoon - character - shaped lids and snacks with colorful, eye - catching wrappers. The main color palette consists of warm pastel pink and sunny yellow, creating a cozy and friendly atmosphere. At the top, there is a small, animated neon sign of the store's name that flashes gently, and near the cashier counter, there are tiny icons of different coins and bills for the payment process.
+再来一个卡通农场游戏的提示词
+Charmingly crafted UI design for a cartoon - style farm game, exuding a warm and idyllic rural charm. In the middle of the screen, there is a large, vividly colored barn with a red roof and white walls. On the barn door, there's a cute hand - painted sign featuring a smiling cow and a chicken. The dominant colors are earthy brown and fresh green, representing the fertile soil and lush crops.
+Above the barn, a flock of cartoon - style birds is flying in a V - formation, adding a sense of liveliness. Around the barn, there are neatly arranged fields filled with various crops like bright - yellow sunflowers and plump red tomatoes. At the bottom of the screen, there are small, animated icons of farming tools such as shovels, rakes, and watering cans, ready for players to use in their farming adventures.
+再来一个卡通企业经营游戏的提示词
+Playfully designed UI for a cartoon - inspired business simulation game, overflowing with dynamic and engaging elements. In the center, there's a towering, modern - looking corporate building with a glass facade that sparkles in the light. The building is adorned with colorful neon - like signs of the company's logo, which is a fun - shaped emblem combining a gear and a lightning bolt. The main color scheme is a bold combination of royal blue and electric pink, giving it a contemporary and energetic look.
+At the top of the screen, a fleet of small, cartoon - style helicopters is flying around the building, symbolizing business travel and high - level operations. On the sides, there are rows of animated office desks with cute, chibi - style employees busily typing on their keyboards or having animated discussions. At the bottom, there are various icons representing different business aspects, such as stacks of money for finance, file folders for documents, and a graph for market trends, all designed in a cute and accessible cartoon style.
+再来一个卡通冒险解谜游戏的提示词
+Enchantingly designed UI for a cartoon - themed adventure - puzzle game, teeming with mysterious and alluring elements. In the center, there is an ancient, overgrown gate made of weather - beaten stone. Intricate carvings of strange creatures and arcane symbols adorn the gate, hinting at the secrets that lie beyond. The dominant colors are deep forest green and mysterious violet, creating an air of mystery and magic.
+Above the gate, a flock of luminous, fairy - like creatures flit about, their glowing trails adding a touch of wonder. Scattered around the gate are small, colorful chests with locks, each waiting to be opened with the right combination of clues. At the bottom of the screen, there are icons representing the player's inventory, such as a magnifying glass for examining details, a key for unlocking simple locks, and a map that gradually fills in as the player progresses through the game. These icons are designed in a cute, cartoonish style that is both inviting and easy to recognize.
+再来一个卡通末日生存游戏的提示词
+Strikingly designed UI for a cartoon - style 末日生存游戏 (apocalyptic survival game), packed with post - disaster charm and tension. In the center, there's a dilapidated city street filled with wreckage. A half - collapsed building stands prominently, with its exposed rebar and broken windows. Piles of rubble are scattered around, some of which are hiding useful survival items. The main color palette consists of desaturated grays, browns, and rusty oranges, reflecting the harsh, devastated environment.
+At the top, a hazy, polluted sky looms with dark, foreboding clouds. Among the clouds, there are occasional flashes of lightning, adding to the sense of danger. Floating in the air are small, strange - looking mutant insects with glowing eyes, representing the new threats in this post - apocalyptic world. On the sides of the screen, there are meters showing the player's vital stats like health, hunger, and stamina, all designed in a cartoonish, easy - to - read style. At the bottom, there are icons for the player's inventory, including a tattered backpack, a makeshift weapon like a spiked bat, and a bottle of purified water. Each icon is detailed in a way that gives it a unique, cartoon - like character while still being clearly distinguishable for gameplay purposes.
+再来一个即时战略游戏的提示词
+Dynamically crafted UI for a real - time strategy game, brimming with elements that scream strategy and command. In the center, there is a vast, detailed battlefield map. Terrain features such as lush forests, rocky mountains, and flowing rivers are clearly depicted. Different military units are represented by small, but highly detailed icons. Tanks with their powerful cannons, infantry soldiers with their rifles at the ready, and aircrafts soaring above are all shown in a style that combines precision and a touch of stylization. The main color scheme is a combination of military - inspired greens and browns for the terrain, and bright, distinguishable colors for the units to easily identify them during the heat of battle.
+At the top of the screen, a mini - map provides an overview of the entire battlefield, with markers indicating friendly and enemy positions. There are also countdown timers for important events like reinforcements arriving or special abilities becoming available. On the sides, there are panels filled with various commands. Icons for building structures, training new units, and researching upgrades are neatly arranged. Each icon is designed to be intuitive, with tooltips that pop up when hovered over, explaining their functions in detail. At the bottom, there are sliders for resource management, showing the player's stock of essential resources like gold, oil, and supplies. All these elements are presented in a visually appealing way that doesn't sacrifice clarity, ensuring players can make quick, informed decisions in the fast - paced world of real - time strategy.
+再来一个卡牌游戏的提示词
+Vividly designed UI for a captivating card game, radiating with charm and strategic allure. In the center, there's a gorgeously illustrated playing field, where the cards come to life. Each card features a unique, hand - drawn character, from valiant knights in shining armor to mysterious mages with flowing robes. The background of the playing field is a rich tapestry of fantasy elements, with ancient ruins and floating islands, colored in a harmonious blend of deep purples, blues, and greens.
+At the top of the screen, there's a display showing the player's current health and mana points, represented by cute, stylized icons. Next to it, a timer counts down during each turn, adding an element of excitement and urgency. On the sides, neatly arranged rows showcase the player's deck of cards. Each card has a distinct border color corresponding to its type, such as red for attack - oriented cards, blue for defensive ones, and yellow for special abilities.
+At the bottom, there are intuitive controls for interacting with the cards. Buttons for playing, discarding, and drawing cards are designed with clear, easy - to - understand symbols. Additionally, there are small, animated previews that show what each card does when you hover over it, allowing players to plan their moves carefully. All these elements combine to create a visually stunning and highly engaging card - game experience.
+再来一个城市建设模拟游戏的提示词
+Imaginatively designed UI for a city - building simulation game, overflowing with elements that inspire creativity and urban planning. In the center, there's a large, detailed grid representing the cityscape. The land is initially a blank canvas, with patches of green grass and dirt, waiting to be transformed. As the city grows, various buildings start to take shape. There are modern skyscrapers with glass facades that reflect the sunlight, their design incorporating sleek lines and geometric patterns. Residential areas feature cozy houses with colorful roofs and small gardens, adding a touch of warmth to the urban environment. The main color palette is a blend of light grays for the buildings, vibrant greens for the parks and gardens, and blues for the water bodies like rivers or artificial lakes that wind through the city.
+At the top of the screen, there's a toolbar filled with icons representing different building types. There are icons for commercial buildings such as shops and offices, industrial structures like factories and power plants, and infrastructure elements like roads, bridges, and water towers. Each icon is designed in a simple yet recognizable cartoon style, with a tooltip that appears when hovered over, providing details about the building's function and cost. Next to the toolbar, there are meters showing the city's vital statistics, such as population, income, and happiness levels. These stats are presented in a visually appealing way, with colorful graphs and progress bars that make it easy for players to monitor the city's growth and development.
+On the sides of the screen, there are panels for managing resources. One panel shows the city's budget, with icons for different sources of income like taxes and tourism revenue, and expenditures such as building maintenance and public services. Another panel is dedicated to zoning, allowing players to designate areas for residential, commercial, or industrial use. These panels are designed with clear, easy - to - read labels and intuitive controls, ensuring that players can efficiently manage all aspects of their city.
+At the bottom, there's a minimap that provides an overview of the entire city. The minimap shows the layout of the roads, buildings, and natural features, and also has markers for important areas like the city center, transportation hubs, and areas in need of development. With all these elements, the UI of this city - building simulation game creates an immersive and engaging experience, allowing players to bring their dream cities to life.
+再来一个城市建设模拟游戏的提示词，不要写那么多，少些一点提示词
+Vibrantly designed UI for a city - building game. In the center, a large grid awaits development. There are icons for diverse buildings like skyscrapers, houses, and shops on the side. The main colors are gray for structures, green for parks, and blue for water. At the top, stats like population and income are shown, and at the bottom, a minimap gives an overview of the city.
+再来一个恐怖游戏的提示词，不要写那么多，少些一点提示词
+Eerily designed UI for a horror game. In the center, a dimly - lit corridor with peeling walls and flickering lights. On the sides, strange symbols and blood - splattered handprints. The dominant colors are dark blacks and deep reds. At the top, a faint heartbeat meter, and at the bottom, icons for sparse items like a flashlight and a key.
+再来一个卡车模拟游戏的提示词，不要写那么多，少些一点提示词
+Realistically designed UI for a truck simulation game. In the center, the detailed interior of a truck cabin with a well - crafted steering wheel and dashboard. The main colors are industrial grays and blacks. On the sides, there are gauges for speed, fuel, and engine temperature. At the bottom, icons for gear - shifting and vehicle controls. Outside the windshield, a long, winding highway stretches ahead, with realistic - looking road and scenery details.
+再来一个卡通卡车模拟游戏的提示词，不要写那么多，少些一点提示词
+基于 9 个搜索来源
+
+
+
+
+
+Colorful UI for a cartoon truck simulation game. In the center, a cute truck on a sunny road. The main colors are bright yellows and greens. On the sides, icons for truck customization and mission selection. At the bottom, a simple speedometer and control buttons.
+再来一个卡通街机模拟游戏的提示词，不要写那么多，少些一点提示词
+Playfully designed UI for a cartoon arcade - style simulation game. In the center, a vividly - colored arcade machine with a glowing screen showing a classic - style game scene. The main color palette is a blend of neon - like pinks, blues, and purples. On the sides, there are small, animated icons representing different arcade - style games available. At the bottom, buttons for starting games, inserting coins, and accessing high - score lists, all in a fun, cartoonish design.
+再来一个卡通横版恶魔城游戏的提示词，不要写那么多，少些一点提示词
+基于 6 个搜索来源
+
+
+
+Colorful and cute UI for a cartoon side - scrolling Castlevania game. In the center, a brave protagonist fighting against strange demons in a dark castle corridor. The main colors are bright reds and purples. On the sides, icons for weapons and skills. At the bottom, a health bar and a magic bar.
+再来一个文字角色扮演游戏的提示词
+Immersive UI for a text - based RPG. A parchment - like background in the center, filled with engaging text that drives the story. The main colors are earthy browns and aged yellows. On the sides, there are portraits of the characters, each with unique expressions. At the bottom, buttons for choosing dialogue options, checking inventory, and using skills.
+再来一个卡通钓鱼游戏的提示词
+基于 9 个搜索来源
+
+
+
+
+以下是一个卡通钓鱼游戏的提示词：
+Colorful and charming UI for a cartoon fishing game. In the center, a cute little character is fishing by a beautiful lake, with a vivid fishing rod in hand. The main colors are bright blues and greens, creating a refreshing atmosphere. On the sides, there are icons for different types of bait and fishing rods. At the bottom, a progress bar shows the player's fishing achievements, and control buttons are simple and easy to use.
+再来一个空岛生存游戏的提示词
+基于 6 个搜索来源
+
+以下是一个空岛生存游戏的提示词：
+A vibrant UI for an island survival game. In the center, a floating island with lush vegetation and a simple wooden house. The protagonist is busy gathering resources. The main colors are fresh greens and blues. On the sides, icons for resource collection and tool making. At the bottom, a health bar, hunger bar, and buttons for inventory and crafting.
+再来一个动物园经营游戏的提示词
+基于 3 个搜索来源
+
+以下是一个动物园经营游戏的提示词：
+A charming UI for a zoo management game. In the center, a vibrant zoo with various animal enclosures and happy visitors. The main colors are green and brown, creating a natural atmosphere. On the sides, icons for different animal species, food stalls, and entertainment facilities. At the bottom, buttons for managing finances, hiring staff, and breeding animals.
+来一个塔防游戏的游戏背景的提示词
+在一个神秘的奇幻大陆上，黑暗势力正悄然崛起。成群的邪恶怪物如潮水般涌出，它们散发着诡异的气息，所到之处皆被恐惧笼罩 。这片大陆上的宁静村庄和繁华城镇危在旦夕，人们的生活陷入了混乱。为了守护家园，勇敢的战士们挺身而出，在各个战略要地建立起坚固的防御塔。这些防御塔拥有不同的神奇力量，玩家将操控它们，合理布局，与怪物展开一场激烈的对抗，保卫这片充满希望的土地不被黑暗吞噬。
+不是文字背景，是画面背景的参考提示词
+塔防游戏画面背景提示词
+神秘远古遗迹：在一片荒芜且神秘的沙漠深处，古老的遗迹若隐若现。巨大的石门上刻满了神秘符文，散发着微弱的光芒。坍塌的石柱和破败的墙壁诉说着往昔的辉煌。遗迹周围，黄沙漫天，狂风呼啸，而在遗迹的各个通道口，正是布置防御塔的关键位置。
+魔法森林边境：魔法森林边缘，浓郁的魔法气息弥漫。高大的树木形态各异，有的树干上闪烁着奇异的光斑，有的树枝像触手般蜿蜒。透过茂密的枝叶，能看到神秘的蘑菇散发着幽光。森林深处，隐隐有诡异的声音传来，成群的邪恶生物即将从这里涌出，玩家要在森林与外界的接壤处构建防线。
+蒸汽朋克都市：一座充满蒸汽朋克风格的繁华都市，林立的烟囱中喷出滚滚浓烟。巨大的齿轮在建筑间转动，金属管道交错纵横。街道上，蒸汽驱动...
+参考A charming UI for a zoo management game. In the center, a vibrant zoo with various animal enclosures and happy visitors. The main colors are green and brown, creating a natural atmosphere. On the sides, icons for different animal species, food stalls, and entertainment facilities. At the bottom, buttons for managing finances, hiring staff, and breeding animals.
+来一个塔防游戏的游戏背景画面的提示词
+A dynamic UI for a tower - defense game. In the center, a rugged mountain pass filled with boulders and narrow paths. Towering cliffs on both sides form a natural bottleneck where hordes of menacing monsters will approach. The main colors are earthy browns and grays, giving a sense of a harsh, unforgiving terrain. On the sides, there are icons representing different types of towers, such as archer towers with their quivers of arrows and mage towers with glowing orbs. At the bottom, there are buttons for spending resources to build and upgrade towers, as well as for activating special defensive abilities when the situation gets dire.
+来一个剑士攻击的序列帧动画的提示词
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个弓箭手攻击的序列帧
+很抱歉，我目前还没有生成图片的能力。但我可以为你提供一段弓箭手攻击的序列帧动画的文字描述，你可以根据这个描述找专业的画师或者使用图形设计软件来制作。
+《弓箭手攻击序列帧动画》
+画面整体
+画面尺寸为 512x512 像素，背景为简洁的白色，以突出弓箭手的动作。
+弓箭手位于画面中心，占据约 150x150 像素的大小。
+弓箭手形象
+角色设计采用可爱且富有动感的像素风格。
+头戴一顶绿色的冒险家帽子，帽檐上有一根小小的羽毛随风飘动。
+身穿一件棕色的皮甲，上面有一些简单的金色装饰线条，凸显冒险风格。
+背后背着一把紫色的长弓，弓身镶嵌着一颗闪闪发光的宝石。
+腰间挂着一个箭袋，里面插着几支彩色的箭，箭尾的羽毛颜色与弓身宝石颜色相呼应。
+下身穿着一条蓝色的裤子，裤脚塞进黑色的皮靴中。
+弓箭手的头发为金色，扎成一个高高的马尾，随着动作摆动。
+脸部表情可爱而专注，眼睛紧紧盯着目标，嘴巴微微上扬，透露出自信的神态。
+攻击序列帧
+初始姿态：弓箭手双脚分开与肩同宽，身体微微前倾，重心放在前脚掌上。右手自然下垂，握住弓身中部，左手轻轻搭在弓弦上，箭袋在身体左侧。眼睛看向画面右侧，准备瞄准目标。
+关键帧 1：这一帧中，弓箭手的身体保持静止，只有头发和衣服的下摆微微飘动，表现出微风的效果。
+拉弓蓄力：弓箭手开始用力拉弓弦，左手向后拉，右手同时向前推，将弓拉至最大幅度。身体向后仰，以增加拉力。眼睛仍然盯着目标，脸上露出用力的表情。
+关键帧 2：在这一帧中，弓弦被拉到最长，弓身弯曲明显。左手的手指紧紧扣住弓弦，右手的手臂肌肉紧绷。弓箭手的身体后仰角度更大，头发和衣服也随着动作向后飘动。
+瞄准目标：弓箭手保持拉弓的姿势，微微调整身体角度和手臂位置，将箭头对准目标。眼睛聚焦在目标上，脸上的表情更加专注和坚定。
+关键帧 3：这一帧中，弓箭手的身体和手臂基本保持不动，只有眼睛和头部有细微的调整，以确保瞄准的准确性。此时可以看到箭头的尖端闪烁着光芒，表示即将释放攻击。
+释放攻击：弓箭手瞬间松开弓弦，箭以极快的速度射向目标。在释放的瞬间，身体会因为反作用力而向前微微晃动一下。同时，左手会自然地甩向身体左侧，右手则保持握住弓身的姿势。眼睛紧紧跟随箭的飞行轨迹，脸上露出期待的表情。
+关键帧 4：这一帧中，箭已经离开弓弦，在画面中形成一道白色的光影轨迹。弓箭手的身体向前晃动的幅度较大，头发和衣服也因为惯性向前飘动。右手的手臂有一个明显的抖动动作，表现出释放力量后的余波。
+攻击结束：箭射中目标后，弓箭手会迅速恢复到初始姿态，准备下一次攻击。身体挺直，双脚重新站稳，右手将弓放下，左手从箭袋中取出一支新的箭。眼睛看向目标，观察攻击效果。
+关键帧 5：这一帧中，弓箭手已经完全恢复到初始状态，除了箭袋中的箭数量减少了一支外，其他部分与关键帧 1 基本相同。
+颜色搭配...
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个弓箭手攻击的序列帧提示词
+A clean and vivid sprite sheet presenting a pixel - art archer in an attack sequence. The frames are neatly arranged in a row, clearly showing the progression of each animation step.
+The archer is crafted in an endearing and lively pixel art style. She dons a green, form - fitting adventurer's outfit with golden trims. A quiver filled with colorful arrows is strapped across her back, and a sleek, short - bow is firmly in her grip.
+In the first frame (initial stance), the archer stands with her feet shoulder - width apart, knees slightly bent. Her left hand holds the bow horizontally, while her right hand is near the quiver, ready to draw an arrow. Her posture is relaxed yet alert, and her eyes are focused intently ahead.
+The second frame (drawing the arrow) shows her right hand smoothly pulling an arrow from the quiver. Her fingers deftly grip the arrow's shaft as she begins to nock it onto the bowstring. Her body remains steady, but there's a slight tension in her muscles, indicating the build - up of action.
+As the third frame (drawing the bow) unfolds, the archer's right hand draws the bowstring back, stretching it to its limit. Her left arm extends straight, firmly supporting the bow. Her face shows determination, and her hair, a shade of bright red, flows back gently with the motion.
+The fourth frame (aiming) captures the archer in a moment of intense concentration. She squints one eye, aligning the arrow with the target. Her body is completely still, except for the faint tremble of the drawn bowstring, emphasizing the pent - up energy.
+In the fifth frame (releasing the arrow), the archer's right hand suddenly releases the bowstring. The arrow shoots forward with a blur, and her body jolts slightly due to the recoil. Her hair and clothing ripple in the wake of the released energy.
+The final frame (recovery) shows the archer returning to a more relaxed stance. Her right hand drops to her side, and her left hand lowers the bow. She takes a breath, ready to repeat the process if needed.
+The color palette combines bold hues like the rich green of her outfit and the bright red of her hair, with soft accents such as the creamy white of her shirt and the golden glint on her trims. Vibrant yellow highlights on the arrowheads and the bowstring add a pop of color, vividly emphasizing the dynamic motion of the attack. Each frame is evenly spaced, surrounded by ample white space, creating a clean, organized appearance that is ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个弓箭手攻击的序列帧提示词，提示词不用太长了
+A clean sprite sheet with a pixel - art archer's attack sequence. Frames are arranged in a row, showing each step. The archer, in cute pixel style, wears a blue adventurer's outfit and wields a bow.
+Initial stance: She stands steadily, feet apart, eyes focused.
+Drawing the arrow: Her hand smoothly takes an arrow from the quiver.
+Drawing the bow: She pulls the string back, bow bent.
+Aiming: Concentrated, she aligns the arrow with the target.
+Releasing: Arrow shoots forward, body recoils slightly.
+Recovery: She relaxes, getting ready for the next move.
+The color palette has bold blues and soft accents, with bright highlights on the arrow and bow, emphasizing the attack's energy. Frames are evenly spaced with white space, suitable for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个史莱姆移动的序列帧提示词，提示词不用太长了
+A clean and lively sprite sheet displaying a pixel - art slime's movement sequence. The frames are laid out in a row, presenting each phase of its motion. The slime is designed in an adorable pixel style, with a round, jelly - like body.
+In the first frame (starting position), the slime is stationary, its body jiggling slightly.
+The second frame shows it beginning to stretch one side of its body forward, as if preparing to move.
+In the third frame, it has pushed itself forward, with its body deforming in a bouncy way.
+The fourth frame captures it in mid - movement, still stretching and flowing.
+The final frame shows it reaching a new position, and then it starts to settle back into its round shape.
+The color palette consists of bright, soft greens and some shiny highlights that make the slime look gooey and dynamic. The frames are evenly spaced and surrounded by white space, making it a great fit for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个美少女移动的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet showcases a pixel - art pretty girl's movement sequence. Arranged in a row, each frame clearly shows her motion. The girl is designed in a cute and lively pixel style, wearing a pink, frilly adventurer's dress.
+In the first frame (idle), she stands with a gentle smile, her hands at her sides and her long, blonde hair slightly swaying.
+In the second frame (starting to move), one foot lifts slightly, ready to take a step forward.
+The third frame shows her mid - step, with her body leaning forward a bit, and her hair flowing behind her.
+The fourth frame captures her in a continuous walking motion, the dress ruffles fluttering.
+The final frame shows her pausing for a moment, maintaining her charming posture.
+The color palette combines bold pinks for her dress with soft, creamy tones for her skin and hair. There are vibrant highlights on her accessories and the edges of her hair, highlighting her lively movement. The frames are evenly spaced with white space around them, ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个帅气的少年移动的序列帧提示词，提示词不用太长了
+A clean and dynamic sprite sheet features a pixel - art cool - looking teen's movement sequence. The frames are neatly lined up in a row, presenting each distinct phase of his motion. The teen is designed in a stylish and lively pixel style, clad in a black leather jacket with silver zippers over a white t - shirt and blue denim jeans.
+In the first frame (standing still), he stands tall with his hands in his pockets, exuding a confident air. His brown hair is tousled, and his eyes look straight ahead.
+In the second frame (starting to move), one foot slides forward slightly, ready to initiate a step.
+The third frame shows him mid - stride, his body in a smooth, forward - leaning motion. His jacket flaps gently in the 'wind', and his hair sways with the movement.
+The fourth frame captures him in continuous movement, with his arms swinging naturally at his sides.
+The final frame shows him pausing briefly, still maintaining his cool and composed demeanor.
+The color palette combines bold blacks and blues with soft white and brown accents. There are vibrant silver highlights on his jacket zippers and the edges of his hair, emphasizing his energetic movement. The frames are evenly spaced and surrounded by white space, making it perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个金发少女微笑的序列帧提示词，提示词不用太长了
+A clean and charming sprite sheet presents a pixel - art blonde girl's smiling sequence. The frames are orderly arranged in a row, showing every stage of her smile. The girl is designed in an endearing pixel style, wearing a sky - blue, frilly dress.
+In the first frame (neutral expression), she has a calm look, with her big, bright eyes looking forward. Her long, wavy blonde hair cascades over her shoulders.
+In the second frame (beginning to smile), the corners of her mouth start to turn up slightly, forming a faint curve.
+The third frame shows her mid - smile, with her teeth just barely visible. Her eyes crinkle a bit, adding to her charm.
+The fourth frame captures her full - fledged smile. Her face lights up, and her cheeks are slightly flushed.
+The final frame still has her smiling brightly, but the expression softens a little.
+The color palette consists of soft blues for her dress and warm, creamy tones for her skin and hair. There are vibrant highlights on her hair and the edges of her dress, making her look lively and full of energy. The frames are evenly spaced with white space around them, ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一只母鸡移动的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet features a pixel - art hen's movement sequence. The frames are neatly placed in a row, presenting each stage of its locomotion. The hen is designed in a cute pixel style, with a plump, round body covered in soft - colored feathers.
+Frame 1: Starting Point
+The hen stands still on a patch of grass. Its body is upright, and its small head is held high. Its feathers, a mix of warm browns and creamy yellows, are neatly arranged. The two - clawed feet are firmly planted on the ground, and its beady eyes look alertly around.
+Frame 2: Initial Movement
+One of the hen's feet lifts slightly off the ground, beginning to take a step forward. Its body sways gently to the side in preparation for the movement. The feathers on its wings ruffle a bit as it shifts its balance.
+Frame 3: Mid - Step
+The lifted foot moves forward and lands on the ground. The hen's body is now in a more forward - leaning position. Its tail feathers fan out slightly, and the feathers on its back seem to glide with the motion, with some bright highlights showing the flow.
+Frame 4: Continuing the Move
+The other foot follows suit, lifting and moving forward. The hen's head bobs rhythmically with each step. The colors of its feathers, a combination of bold and soft tones, are clearly visible, and the sunlight - like highlights emphasize its lively movement.
+Frame 5: Pausing Moment
+The hen comes to a brief stop. It stands steadily again, its body upright. Its head turns slightly, as if looking for something. The feathers settle back into their original state, but there's still a sense of energy in its stance.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look that is perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一只母鸡生蛋的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet features a pixel - art hen's egg - laying sequence. The frames are neatly arranged in a row, presenting each stage of the process. The hen is designed in an adorable pixel style, with a plump body covered in soft - colored feathers.
+Frame 1: Getting Ready
+The hen stands in a cozy nest made of straw. Her feathers, a blend of warm browns and soft yellows, are fluffed up slightly. She looks a bit restless, shifting her weight from one foot to the other, and her beady eyes are focused intently.
+Frame 2: Squatting Down
+The hen begins to lower her body, her legs bending at the knees. Her wings droop a little at her sides, and her tail feathers spread out wider. There's a sense of tension in her stance as she readies herself.
+Frame 3: The Egg - Laying Strain
+The hen's body tenses even more. Her face shows a look of concentration. The color palette of her feathers stands out, with bold highlights emphasizing her effort. A small, round shape starts to emerge from beneath her.
+Frame 4: Egg Emerging
+The egg is more visible, slowly making its way out. The hen's body trembles slightly with the exertion. The egg has a shiny, smooth appearance with a soft white color and a few faint speckles.
+Frame 5: Completion
+The egg is fully laid in the nest. The hen relaxes, her body slumping a bit in relief. Her feathers settle back into place, and she turns her head to look at the newly - laid egg with what seems like a satisfied expression.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look, ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一只鱼游泳的序列帧提示词，提示词不用太长了
+A clean and lively sprite sheet features a pixel - art fish's swimming sequence. The frames are orderly set in a row, showing each stage of its swim. The fish is designed in a charming pixel style, with a sleek, streamlined body.
+Frame 1: Stationary Pose
+The fish hovers in the water, its body horizontal. Its scales, a blend of bright blues and iridescent greens, glisten faintly. The fins are spread out gently, and its large, round eyes are looking ahead.
+Frame 2: Starting to Move
+The fish begins to flex its tail fin slightly. The movement causes a small ripple in the surrounding water, which is represented by a few light - blue pixels. Its body tilts just a bit, preparing for the forward motion.
+Frame 3: Mid - Swim
+The tail fin swings forcefully from side to side. As it does, the fish's body curves gracefully. The scales catch the light, with vibrant highlights emphasizing the speed. The other fins adjust to maintain balance and direction.
+Frame 4: Continuing the Swim
+The fish propels itself further forward. Its mouth opens and closes slightly as it moves through the water. The color palette of its body and the water around it creates a vivid and dynamic scene.
+Frame 5: Pause in Motion
+The fish slows down and comes to a momentary stop. Its fins spread out again to steady itself. The water around it settles, and the fish's scales still shimmer with a soft glow.
+The frames are evenly spaced and surrounded by white space, offering a clean and organized look, perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一只猫走路的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet features a pixel - art cat's walking sequence. The frames are neatly arranged in a row, presenting each stage of its movement. The cat is designed in an adorable pixel style, with soft - colored fur.
+Frame 1: Standing Still
+The cat stands on all fours, its body upright and tail held straight. Its fur, a mix of warm oranges and creamy whites, lies smoothly. Its bright eyes are alert, looking forward.
+Frame 2: Starting to Walk
+One of the cat's front paws lifts slightly, ready to take the first step. Its ears twitch, and the tail sways gently from side to side.
+Frame 3: Mid - Step (Front Paw)
+The lifted front paw moves forward and touches the ground. The cat's body shifts its weight, and the back legs start to prepare for their movement.
+Frame 4: Back Legs in Motion
+As the front paw plants firmly, one of the back legs lifts and steps forward. The cat's body sways gracefully, and the fur on its back ripples slightly.
+Frame 5: Continuing the Walk
+The other back leg follows suit, and the cat continues its steady gait. The color palette of its fur, with bold highlights on the edges, makes it look lively.
+Frame 6: Pausing Briefly
+The cat comes to a short stop, still on all fours. Its tail flicks once, and it seems to be observing its surroundings.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look that's perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个少女背着包走路的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet features a pixel - art girl walking with a backpack. The frames are arranged in a row, clearly showing each stage of her movement. The girl is designed in a cute and lively pixel style.
+Frame 1: Standing Steady
+The girl stands straight on a path, her feet together. She's wearing a bright - colored dress and a small backpack with a few cute badges on it. Her long hair is neatly tied, and her eyes look ahead with curiosity.
+Frame 2: Taking the First Step
+One of her feet gently lifts off the ground, starting to move forward. Her body sways slightly, and the backpack jiggles a bit on her back.
+Frame 3: Mid - Stride
+As the lifted foot moves further forward and lands, her other foot begins to lift. Her arms swing naturally at her sides, and the straps of the backpack seem to stretch a bit with the movement.
+Frame 4: Continuous Walk
+She's in a smooth walking motion. Her dress flutters with each step, and the colors of her outfit, a combination of bold and soft tones, stand out. There are vibrant highlights on the edges of her hair and the backpack.
+Frame 5: Pausing Momentarily
+She comes to a brief stop, still standing upright. Her head turns slightly as if she's looking at something interesting around her, and the backpack rests steadily on her back.
+The frames are evenly spaced with lots of white space around them, making it perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个少女拎着购物袋走路的序列帧提示词，提示词不用太长了
+A clean and charming sprite sheet showcases a pixel - art girl walking while carrying shopping bags. The frames are presented in a row, each showing a distinct stage of her movement. The girl is designed in an irresistibly cute pixel art style, wearing a trendy outfit that combines a pastel - colored top and a pair of denim shorts.
+Frame 1: Standing at Ease
+The girl stands on a bustling street, her feet shoulder - width apart. In each hand, she holds a colorful shopping bag with various store logos printed on them. Her hair is styled in a ponytail, and her bright eyes are looking ahead, ready to start walking. The colors of her outfit are a blend of soft pastels and bold accents, creating a lively and appealing look.
+Frame 2: Initiating the Walk
+She begins to move, lifting one foot slightly off the ground. Her body sways gently in preparation for the first step. The shopping bags in her hands swing a little with the movement, and the straps of the bags are taut against her fingers.
+Frame 3: Mid - Step
+As the lifted foot moves forward and lands, the other foot starts to lift. Her arms swing rhythmically, and the bags bounce up and down in a natural motion. The highlights on her hair and the edges of her clothing add a sense of energy and movement.
+Frame 4: Continuing the Stroll
+She continues walking at a steady pace. Her ponytail swings from side to side, and the colors of her outfit and the shopping bags create a visually appealing combination. The details of the items in the bags are just visible, adding a touch of realism.
+Frame 5: Pausing for a Moment
+She comes to a temporary stop, perhaps to look at something in a store window. Her body is still, but her eyes are focused on something off - screen. The shopping bags hang down by her sides, and the fabric of the bags sags slightly.
+The frames are evenly spaced, with ample white space surrounding them to give a clean and organized appearance, making it ideal for pixel - art games.
+提示词 太长了 精简一点
+A clean and charming sprite sheet shows a pixel - art girl walking with shopping bags. The frames are in a row, each showing a different movement stage. The girl, in a cute pixel style, wears a trendy outfit with a pastel top and denim shorts.
+Frame 1: Standing
+The girl stands on the street, feet shoulder - width apart, holding colorful shopping bags. Her ponytail and bright eyes give her a lively look.
+Frame 2: Starting to Move
+She lifts one foot, body swaying. The bags in her hands start to swing, and the bag straps are taut.
+Frame 3: Mid - Step
+As one foot lands, the other lifts. Her arms swing, and the bags bounce with the movement. Highlights on her hair and clothes add energy.
+Frame 4: Continuing to Walk
+She walks steadily. Her ponytail swings, and the colors of her outfit and bags blend well.
+Frame 5: Pausing
+She stops briefly, maybe looking at a store window. The bags hang by her sides, fabric sagging slightly.
+The frames are evenly spaced with white space around, perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个法师释放技能的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet features a pixel - art mage casting a spell. The frames are lined up in a row, presenting each stage of the skill - releasing process. The mage is designed in a cute and dynamic pixel style, wearing a long, purple robe adorned with golden stars and carrying a glowing staff.
+Frame 1: Initial Stance
+The mage stands firmly, feet apart. Their eyes are closed, and they're taking a deep breath, gathering energy. The staff is held upright, and the robe flows gently around them.
+Frame 2: Gathering Power
+The mage's eyes open, glowing with a faint blue light. Their hands start to move on the staff, and a small, swirling ball of energy forms at the tip. The colors of the robe and the energy ball are a mix of bold purples and soft blues.
+Frame 3: Channeling the Spell
+The energy ball grows larger and more intense. The mage's body trembles slightly with the power they're channeling. There are vibrant highlights on the energy and the staff, emphasizing the build - up.
+Frame 4: Releasing the Skill
+The mage thrusts the staff forward, and the energy ball shoots out with a burst of light. Their hair and robe are blown back by the force of the spell.
+Frame 5: Completion
+The spell is released. The mage's body relaxes a bit, and the glow in their eyes fades. The remaining energy around the staff dissipates slowly.
+The frames are evenly spaced and surrounded by white space, making it perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个少女跳跃的序列帧提示词，提示词不用太长了
+A clean and lively sprite sheet features a pixel - art girl's jumping sequence. The frames are neatly arranged in a row, presenting each stage of her jump. The girl is designed in a cute pixel style, wearing a pink, frilly dress.
+Frame 1: Starting Position
+The girl stands on the ground with her knees slightly bent and her arms at her sides. Her long, brown hair is tied in two ponytails, and her eyes are focused ahead.
+Frame 2: Bending Down
+She bends her knees deeper, preparing to jump. Her arms start to swing backward, and her dress ruffles slightly.
+Frame 3: Launching
+The girl springs off the ground, her legs extending and her arms swinging forward. Her hair and dress are lifted by the force of the jump.
+Frame 4: Mid - Air
+She is in mid - air, her body in a slightly arched position. Her arms are spread out for balance, and the colors of her dress and hair stand out vividly.
+Frame 5: Landing
+The girl's feet touch the ground, her knees bend to absorb the impact. Her arms are still in motion, and her hair and dress fall back into place.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个老奶奶跳跃的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet showcases a pixel - art 老奶奶's jumping sequence. The frames are lined up in a row, presenting each phase of her jump. The 老奶奶 is designed in a cute pixel style, wearing a comfortable floral - printed dress and a pair of sturdy shoes.
+Frame 1: Pre - Jump Stance
+The 老奶奶 stands on a flat surface, her feet shoulder - width apart. Her back is slightly hunched, and she holds a walking stick in one hand. With the other hand, she clutches the edge of her dress, preparing for the jump. Her wrinkled face shows determination, and her gray - haired bun is neatly tied.
+Frame 2: Bending Down
+She bends her knees slowly, her body lowering. The walking stick is placed aside for the moment. Her dress sways gently as she shifts her weight. The colors of her dress, in soft pastels, are clearly visible, and there are faint highlights on the fabric.
+Frame 3: Taking Off
+With a sudden burst of energy, the 老奶奶 jumps up. Her legs straighten out, and her arms spread out for balance. Her hair and the edges of her dress lift in the air, and there's a bright highlight on her face, emphasizing the effort.
+Frame 4: Mid - Air
+In mid - air, her body is briefly suspended. Her eyes are wide open, and her expression is a mix of surprise and excitement. The colors of her outfit create a charming contrast against the white - space background.
+Frame 5: Landing
+As she lands, her knees bend again to cushion the impact. Her arms are still extended, and she stumbles a little before regaining her balance. She quickly reaches for her walking stick. The frames are evenly spaced, surrounded by white space, making it ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个猴子跑步的序列帧提示词，提示词不用太长了
+A clean and lively sprite sheet features a pixel - art monkey running. The frames are neatly arranged in a row, presenting each stage of its run. The monkey is designed in a cute pixel style, with a furry brown body and a long, curved tail.
+Frame 1: Starting Point
+The monkey stands on all fours, its body low and ready. Its bright, curious eyes are looking forward. The fur on its body has a mix of bold browns and soft highlights.
+Frame 2: Initial Move
+One of its front paws moves forward, starting the run. Its tail begins to swing for balance, and its ears perk up.
+Frame 3: Picking Up Speed
+As the front paw lands, the opposite back paw quickly follows, pushing the monkey forward. Its body stretches and contracts with each movement, and the fur seems to ruffle in the 'wind'.
+Frame 4: Mid - Run
+The monkey is in full - swing running. Its paws are moving in a coordinated rhythm, and its tail is extended straight out behind it. There are vibrant highlights on its fur, emphasizing its speed.
+Frame 5: Continuing the Sprint
+It continues running at a brisk pace. Its eyes are focused on its destination, and the colors of its body and the surrounding white space create a clean, dynamic look.
+Frame 6: Slowing Down
+The monkey starts to slow down. Its paws move less vigorously, and its body begins to straighten up a bit.
+Frame 7: Stopping
+Finally, it comes to a stop, standing on all fours again. Its chest heaves slightly from the run, and its tail sways gently.
+The frames are evenly spaced and surrounded by white space, making it perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个爆炸的序列帧提示词，提示词不用太长了
+A clean and dynamic sprite sheet depicts a pixel - art explosion sequence. The frames are arranged in a row, presenting each stage of the blast.
+Frame 1: Spark
+A tiny, bright - colored spark appears in the center of the frame. It has a bold, primary - colored glow, like a small star in the white - space background.
+Frame 2: Expansion
+The spark rapidly expands into a small, circular ball of energy. The colors start to blend, with vibrant oranges and yellows emerging from the core.
+Frame 3: Shockwave Initiation
+The ball of energy expands further, and a faint, circular shockwave begins to form around it. The shockwave has a bluish - white tint, and the colors of the energy ball intensify.
+Frame 4: Intense Blast
+The explosion reaches its peak. The energy ball is a mass of swirling, bright colors - reds, oranges, and yellows. The shockwave has grown larger and more distinct, with bold highlights emphasizing its force.
+Frame 5: Fading
+The colors of the explosion start to fade. The energy ball becomes less intense, and the shockwave begins to dissipate. The palette shifts to more muted tones, like light grays and blues.
+Frame 6: Aftermath
+Only a few wisps of smoke and faint traces of color remain. The background returns to a mostly clean white, with just a hint of the explosion's aftermath.
+The frames are evenly spaced, with ample white space around them, creating a clean and organized look suitable for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个泡泡漂浮的序列帧提示词，提示词不用太长了
+A clean and charming sprite sheet features a pixel - art bubble floating sequence. The frames are neatly arranged in a row, presenting each stage of the bubble's float.
+Frame 1: Initial Appearance
+A small, perfectly round bubble appears in the upper - left corner of the frame. It has a transparent, light - blue body with a soft, iridescent sheen. There's a faint highlight on one side, as if catching a ray of light.
+Frame 2: Starting to Float
+The bubble begins to move gently upwards and to the right. Its shape remains round, but it jiggles slightly, causing the colors within its iridescence to shift ever so slightly.
+Frame 3: Mid - Float
+As the bubble continues its ascent, it rotates slowly. The light hitting it creates a beautiful play of colors, with bold purples, pinks, and greens emerging from the soft blue base.
+Frame 4: Continuing the Drift
+The bubble floats further, and its movement becomes more fluid. The iridescent colors blend and swirl, and the highlight on its surface changes position as it rotates.
+Frame 5: Near the Edge
+The bubble approaches the upper - right corner of the frame. It starts to slow down a bit, and the colors seem to calm down, returning to a more subdued iridescence.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look that's perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个月亮阴晴圆缺的序列帧提示词，提示词不用太长了
+A clean and captivating sprite sheet shows a pixel - art moon's phases sequence. The frames are presented in a row, each depicting a different stage of the moon's cycle.
+Frame 1: New Moon
+The frame shows a small, black circle against a deep - blue, starry background. Only a faint, thin sliver of the moon's edge is visible, glinting with a soft, white light.
+Frame 2: Waxing Crescent
+The moon's illuminated part has grown into a small crescent shape on the right - hand side. The crescent has a bright, bold white color, while the rest of the moon is a dark, shadowy gray.
+Frame 3: First Quarter
+Half of the moon is now brightly lit. The line between the light and dark parts is a sharp, straight edge. The white part of the moon has vibrant highlights, giving it a three - dimensional look.
+Frame 4: Waxing Gibbous
+The illuminated area of the moon has expanded further, leaving only a small, curved part in shadow. The colors of the moon range from a bright white in the center of the lit part to a softer, more yellow - tinged white at the edges.
+Frame 5: Full Moon
+A complete, round moon fills the frame. It's a brilliant white, with strong, vibrant highlights that make it stand out against the starry backdrop. The moon's surface shows some faint, pixel - art craters.
+Frame 6: Waning Gibbous
+The moon starts to lose its light on the left - hand side. The transition from light to dark is a smooth curve, and the colors remain a mix of bold white and soft grays.
+Frame 7: Third Quarter
+Half of the moon is dark again, but this time it's the opposite side from the first quarter. The line between light and dark is once more a straight edge, and the moon's lighting gives it a sense of depth.
+Frame 8: Waning Crescent
+A small crescent of light remains on the left - hand side of the moon. The crescent has a soft, warm glow, and the rest of the moon is a deep, shadowy gray.
+Frame 9: Back to New Moon
+The moon has almost disappeared, with only a tiny, faint sliver of light remaining. The frame is dominated by the dark, starry background once again.
+All frames are evenly spaced and surrounded by white space, creating a clean and organized look, ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个兽人战士拿斧头砍人的序列帧提示词，提示词不用太长了
+A clean and dynamic sprite sheet shows a pixel - art orc warrior attacking with an axe. The frames are arranged in a row, each presenting a different stage of the attack.
+Frame 1: Initial Stance
+The orc warrior stands firmly, feet wide apart. He's clad in a rugged, leather - like armor with spikes. In his right hand, he grips a large, double - bladed axe. His green - hued skin is rough - textured, and his fierce red eyes are fixed on the target.
+Frame 2: Winding Up
+The orc begins to lift the axe over his right shoulder, his muscles tensing. His left arm extends forward for balance. The color palette of his armor and skin, with bold greens and dark browns for the leather, stands out.
+Frame 3: Swooping Down
+With a powerful motion, the orc brings the axe down in an arc. His body twists, adding more force to the strike. The axe's blades glint with a sharp, vibrant highlight.
+Frame 4: Striking
+The axe makes contact with the target. There's a small burst of pixels to indicate the impact. The orc's face shows a snarl, and his muscles are fully flexed.
+Frame 5: Follow - Through
+After the strike, the orc's body continues its momentum. His arm and the axe swing down and to the left. He's ready for his next move.
+The frames are evenly spaced and surrounded by white space, making it perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个法师拿着法杖跳跃的序列帧提示词，提示词不用太长了
+A clean and vivid sprite sheet features a pixel - art mage jumping with a staff. The frames are laid out in a row, presenting each stage of the jump.
+Frame 1: Starting Pose
+The mage stands on the ground, feet together. They're dressed in a long, flowing robe in bold colors like deep purple and bright blue. A wooden staff with glowing runes is held firmly in one hand, reaching up to about shoulder - height. Their eyes are focused ahead, and their posture is upright.
+Frame 2: Bending Down
+The mage bends their knees, lowering their body. The staff is held close to their side, and the fabric of the robe wrinkles as they prepare to jump. The colors of the robe and the staff's glow create a dynamic contrast.
+Frame 3: Launching into the Air
+With a powerful push, the mage jumps upwards. Their legs extend straight out, and the staff is held horizontally for balance. The robe billows out behind them, and the runes on the staff shine even brighter.
+Frame 4: Mid - Air
+In mid - air, the mage's body is in a slightly arched position. The staff is still held firmly, and the colors of the mage's outfit and the staff stand out against the white - space background. There are vibrant highlights on the edges of the robe and the staff, emphasizing the movement.
+Frame 5: Landing
+As the mage approaches the ground, their knees bend again to cushion the impact. The staff is brought back to an upright position, and the robe settles around them. The runes on the staff dim a bit after the energetic jump.
+The frames are evenly spaced and surrounded by white space, making it ideal for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个阿姨蹲下的序列帧提示词，提示词不用太长了
+A clean and straightforward sprite sheet showcases a pixel - art aunt's squatting sequence. The frames are arranged in a row, presenting each stage of her movement.
+Frame 1: Standing Position
+The aunt stands upright on a plain background. She's dressed in a simple, comfortable outfit, like a floral - printed blouse and loose - fitting pants. Her hands are at her sides, and her short - cropped hair is neatly combed.
+Frame 2: Beginning to Bend
+She starts to bend her knees slightly. Her back remains straight, and her hands begin to move forward as if to support herself. The colors of her clothes, with soft pastels and gentle patterns, are distinct.
+Frame 3: Lowering Down
+As she continues to lower herself, her knees bend more deeply. Her body's center of gravity shifts, and her hands are now closer to the ground. There are faint highlights on the edges of her clothing, emphasizing the movement.
+Frame 4: Mid - Squat
+She's at the mid - point of the squat. Her thighs are almost parallel to the ground, and her hands are placed firmly on her knees. Her face shows a focused expression, and the fabric of her clothes wrinkles in a natural way.
+Frame 5: Fully Squatted
+The aunt is fully squatted. Her body is stable, and her hands rest comfortably on her knees. Her posture is relaxed yet composed. The frames are evenly spaced and surrounded by white space, making it suitable for pixel - art depictions.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个爷爷挥手的序列帧提示词，提示词不用太长了
+A clean and warm - toned sprite sheet shows a pixel - art grandpa waving. The frames are neatly arranged in a row, presenting each stage of his waving motion.
+Frame 1: Standing Still
+The grandpa stands on a simple, flat surface. He's dressed in a classic, well - worn shirt and trousers. His hair is white and neatly combed. His hands are at his sides, and he has a kind smile on his face.
+Frame 2: Initiating the Wave
+One of his arms, let's say the right arm, starts to lift up slowly from the side. His palm is facing forward, and his fingers are slightly spread. The colors of his clothing, with soft grays and blues, are distinct.
+Frame 3: Mid - Wave
+The arm is now at a 45 - degree angle from his body. He begins to move his hand in a gentle, side - to - side motion. The wrinkles on his hand and the sleeve of his shirt are clearly visible in the pixel art. There are vibrant highlights on the edges of his sleeve, emphasizing the movement.
+Frame 4: Continuing the Wave
+The arm moves further up, reaching close to shoulder - height. His hand is still in the waving motion, and his body sways ever so slightly in rhythm. The color palette of his face and hair gives him a friendly and approachable look.
+Frame 5: Ending the Wave
+The arm starts to come back down. His hand slows its movement, and the palm begins to turn back towards his body. The grandpa's smile remains as he finishes the wave.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一匹马奔跑的序列帧提示词，提示词不用太长了
+A clean and dynamic sprite sheet features a pixel - art horse running. The frames are arranged in a row, presenting each stage of its gallop.
+Frame 1: Starting Position
+The horse stands on a grassy plain. Its body is tall and muscular, covered in a sleek, brown coat with a black mane and tail. Its four legs are firmly planted on the ground, and its ears are perked up.
+Frame 2: Pre - Run
+The horse begins to shift its weight, its muscles tensing. One of its front legs slightly lifts, ready to start the run. The color palette of its coat has bold browns and soft black accents, with highlights on the edges of its mane.
+Frame 3: First Stride
+The lifted front leg moves forward and lands, while the opposite back leg simultaneously pushes off. The horse's body stretches, and its mane and tail start to flow with the movement.
+Frame 4: Mid - Gallop
+The horse is in full - speed gallop. All four legs are moving in a coordinated rhythm, with two legs in the air at a time. Its head bobs up and down, and the colors of its body stand out vividly against the white - space background.
+Frame 5: Continuing the Run
+It continues its fast - paced run. The horse's powerful muscles ripple under its coat, and the highlights on its body emphasize its speed and energy.
+Frame 6: Slowing Down
+The horse starts to slow down. Its strides become shorter, and its legs move less vigorously. Its mane and tail still have some momentum but begin to settle.
+Frame 7: Stopping
+Finally, the horse comes to a stop. Its legs are slightly spread for balance, and its body relaxes. It breathes steadily, and the colors of its coat seem to shine in the 'after - run' calm.
+The frames are evenly spaced and surrounded by white space, making it ideal for pixel - art games.
+缩短到四帧
+A clean and dynamic sprite sheet features a pixel - art horse running, with each frame in a row showing a different stage of its gallop.
+Frame 1: Preparation
+The horse stands on a grassy field, its body tense. Its muscular legs are planted firmly, and its ears are pricked forward. Its brown coat has bold and soft - toned areas, with a black mane and tail.
+Frame 2: Start of the Run
+One front leg stretches forward as the opposite back leg propels the horse forward. Its body begins to stretch, and the mane starts to flow in the wind. The colors of its coat are vivid, with vibrant highlights.
+Frame 3: Mid - Gallop
+The horse is in full gallop. Its legs move in a coordinated pattern, two off the ground at a time. Its head bobs, and the flowing mane and tail add to the sense of speed.
+Frame 4: Deceleration
+The horse starts to slow down. Its strides shorten, and its body relaxes slightly. The mane and tail still sway, but with less force.
+All frames are evenly spaced and surrounded by white space, making it perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来火焰序列帧提示词，提示词不用太长了
+A clean and dynamic sprite sheet features a pixel - art flame sequence. The frames are arranged in a row, presenting each stage of the flame's movement.
+Frame 1: Ignition
+A small, bright spark appears in the center of the frame. It's a vivid, yellow - orange color, with a bold glow. Surrounded by white space, it stands out clearly as the start of the flame.
+Frame 2: Growth
+The spark expands into a small, flickering flame. The flame has a core of bright yellow, surrounded by a layer of orange. The edges of the flame dance and waver, with some soft, red - orange hues starting to show at the base.
+Frame 3: Flaring
+The flame grows larger and more intense. The yellow core becomes even brighter, and the orange outer layer expands. There are vibrant highlights on the tips of the flames, emphasizing its energetic movement. The flame's shape becomes more irregular, with tendrils reaching out.
+Frame 4: Dying Down
+The flame begins to fade. The colors become less intense, with the yellow turning to a more muted orange. The size of the flame reduces, and the flickering becomes less pronounced. The frame still has a lot of white space, creating a clean look.
+These frames are evenly spaced, making it suitable for pixel - art games.
+要突出火焰从小烧到大
+A clean and dynamic sprite sheet features a pixel - art flame sequence, with frames arranged in a row to show the flame growing from small to large.
+Frame 1: Spark
+A tiny, bright red - orange spark appears in the middle of the frame. Against the white background, it's the initial glimmer of what's to come. The spark has a sharp, defined edge and a vivid glow.
+Frame 2: Small Flame
+The spark has evolved into a small, flickering flame. Its base is a deep red, transitioning to orange at the tip. The flame's shape is irregular, with a few thin tendrils reaching upwards. It's about one - quarter the size of the final, large flame.
+Frame 3: Growing Flame
+The flame has grown significantly. The red at the base has become more intense, while the orange part has expanded and brightened. There are now more complex flickering patterns within the flame, and it has a distinct three - dimensional look. It's roughly half the size of the full - grown flame.
+Frame 4: Large Flame
+The flame is now at its largest. A bright yellow core has emerged in the center, surrounded by a thick layer of orange and then red at the edges. The flame billows and twists, with bold, vibrant highlights that emphasize its heat and energy. It fills a substantial portion of the frame, with its wild shape standing out against the white space.
+All frames are evenly spaced, creating a clean and organized look perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一只狗移动的序列帧提示词，提示词不用太长了
+A clean and lively sprite sheet features a pixel - art dog's movement sequence. The frames are arranged in a row, presenting each stage of its motion. The dog is designed in an adorable pixel style, with short, soft - colored fur.
+Frame 1: Standing
+The dog stands on all fours, its tail wagging gently. Its bright eyes are looking ahead, and its ears are perked up. The color of its fur, a mix of warm browns and creamy whites, is clearly visible.
+Frame 2: Starting to Move
+One of the dog's front paws lifts slightly, preparing to take a step. Its body sways a bit, and the tail wags more vigorously.
+Frame 3: Mid - Step
+As the front paw moves forward and touches the ground, the opposite back paw starts to lift. The dog's body is in a dynamic pose, and the fur on its back ripples with the movement.
+Frame 4: Continuing to Move
+The dog continues walking steadily. Its four legs move in a coordinated rhythm, and its tail is held high. The colors of its fur have vibrant highlights, emphasizing its lively movement.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look that's perfect for pixel - art games.
+参考A clean and vibrant sprite sheet featuring a pixel art character performing an attack sequence , displayed in a row with each frame of the animation shown in progression. The character is designed in a cute and dynamic pixel art style, wearing adventurer-style clothing with a small weapon , such as a sword or staff . Each frame showcases a different stage of the attack animation , from the initial stance , winding up , striking , and finishing . The color palette includes bold yet soft tones with vibrant highlights , emphasizing the motion and energy of the attack. The frame s are evenly spaced , with plenty of white space surrounding them for a clean and organized look, perfect for use in pixel art games
+来一个中年男性哭泣的序列帧提示词，提示词不用太长了
+A clean and emotionally - charged sprite sheet features a pixel - art middle - aged man crying. The frames are arranged in a row, presenting each stage of his emotional breakdown.
+Frame 1: The First Signs
+The middle - aged man stands or sits in a simple setting. He's dressed in a plain shirt and trousers. His face is initially calm, but his brows start to furrow slightly, and there's a glimmer of moisture in his eyes. The color palette of his clothing is a mix of muted grays and blues, and there are faint highlights on his face.
+Frame 2: Building Emotion
+His eyes well up with tears. His lips tremble a bit, and he starts to take a few deep, shaky breaths. The lines on his face seem more pronounced as his emotions intensify. The colors on his face, especially around the eyes and nose, show a flush of red.
+Frame 3: The Outburst
+Tears stream down his cheeks. His mouth opens wide as he sobs, and his shoulders shake. His hands might be balled into fists or covering part of his face. The vibrant highlights on his wet cheeks emphasize the flow of tears.
+Frame 4: Calming Down
+The sobs start to subside. His breathing becomes less ragged, and the flow of tears slows. His face still shows signs of distress, but there's a hint of exhaustion. The colors on his face gradually return to a more normal tone.
+The frames are evenly spaced and surrounded by white space, creating a clean and organized look suitable for pixel - art games.
+参考这个提示词的格式
+Exquisitely built UI design that simulates operating medieval pixel games, with magical fantasy elements. In the center, there is a delicate knight's coat of arms that combines wings and a long sword, mainly dark green and gold , and a skull icon at the top
+来一个卡通校园游戏的提示词
+Vivid and charming UI design tailored for a cartoon - themed campus game. The overall style is full of youthful energy and fun.
+In the top - left corner, there's a cute school - bell icon in bright yellow, which jingles when clicked. Right beside it, a small, colorful map of the campus shows all the important areas like classrooms, the library, and the playground.
+In the center of the UI, a large, friendly - looking school mascot, a beaming fox wearing a school uniform in shades of blue and red, waves to welcome players. Around the mascot, various item icons are arranged in a semi - circle. There are shiny pencils for studying, a sports ball representing PE classes, and a little lunchbox icon for cafeteria scenes.
+At the bottom, a row of buttons with rounded edges leads to different game functions. The "Friends" button has a heart - shaped icon in pink, the "Tasks" button shows a clipboard in brown, and the "Shop" button is marked with a gold coin. The color palette of the entire UI is a blend of soft pastels and bold primary colors, creating a visually appealing and engaging interface for the cartoon campus game.
+参考这个提示词的格式
+Exquisitely built UI design that simulates operating medieval pixel games, with magical fantasy elements. In the center, there is a delicate knight's coat of arms that combines wings and a long sword, mainly dark green and gold , and a skull icon at the top
+来一个卡通医院模拟游戏的提示词
+Charmingly crafted UI design for a cartoon - style hospital simulation game, filled with friendly and approachable elements.
+In the center of the screen, there's a large, colorful medical cross logo. It's adorned with little cartoon - style hearts and pills, symbolizing care and treatment. The cross is mainly in bright red and white, with soft, glowing edges to make it stand out.
+At the top, there's a cute stethoscope icon in baby blue. It's slightly tilted, giving it a dynamic look. Beside the stethoscope, a small clock icon in yellow keeps track of the in - game time, reminding players of the importance of timely patient care.
+Scattered around the main logo are various patient - related icons. There's a simple bed icon in light brown, representing the hospital rooms. A syringe icon in silver is nearby, for treatments. And a clipboard with a medical chart in green, which shows the patient's information.
+At the bottom, a row of functional buttons is neatly arranged. The "Admit Patient" button has a small figure of a person walking towards the hospital entrance. The "Medicine Cabinet" button shows a colorful bottle of pills. And the "Staff Management" button features a doctor's cap. The overall color palette of the UI is a combination of soft pastels like light blue, pink, and green, along with some bright accents, creating a warm and inviting atmosphere for the hospital simulation game.

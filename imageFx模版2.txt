@@ -1,0 +1,67 @@
+参考这个提示词的格式
+Exquisitely built UI design that simulates operating medieval pixel games, with magical fantasy elements. In the center, there is a delicate knight's coat of arms that combines wings and a long sword, mainly dark green and gold , and a skull icon at the top
+
+我想生成一个可爱卡通的风格，帮我给出提示词
+ChatGPT 说：
+Here's a cute and cartoonish style prompt for you:
+
+"Adorably crafted UI design that simulates operating a colorful cartoon adventure game, with cheerful fantasy elements. In the center, there is a playful character logo featuring a smiling chubby dragon holding a bright golden star, surrounded by pastel clouds and sparkles. The color palette includes soft pink, sky blue, and sunshine yellow, with heart-shaped icons scattered around."
+
+您说：
+再来一个便利店模拟经营游戏的提示词
+ChatGPT 说：
+"Charmingly designed UI for a cozy and vibrant convenience store simulation game, with a cute and inviting atmosphere. At the center, there is an adorable logo featuring a smiling storefront with a striped awning, surrounded by cartoon-style items like snacks, drinks, and a cash register. The color scheme consists of soft pastel greens, warm oranges, and creamy whites, with playful icons like shopping baskets, price tags, and tiny product shelves scattered around."
+
+您说：
+再来一个可爱的动物风格的提示词
+ChatGPT 说：
+"Delightfully designed UI for a charming animal-themed game, featuring a playful and whimsical atmosphere. At the center, there is an adorable logo of a round, smiling bear holding a leaf, surrounded by cute cartoon animals like bunnies, foxes, and birds. The color palette includes soft earth tones, such as warm browns, gentle greens, and pastel oranges, with paw print icons, acorns, and little hearts sprinkled throughout for a cozy and friendly feel."
+
+您说：
+多突出一些不同种类的动物，而不是UI
+ChatGPT 说：
+"Adorably crafted scene featuring a variety of cute and cartoon-style animals gathered in a cheerful and lively setting. At the center, a playful group of animals—such as a fluffy rabbit, a chubby raccoon, a smiling fox, a round penguin, and a tiny hedgehog—are interacting joyfully, surrounded by nature elements like soft grass, blooming flowers, and pastel-colored trees. The animals have exaggerated, friendly features such as big eyes and small bodies, with a warm and vibrant color palette of soft browns, greens, oranges, and sky blues, creating an irresistibly cozy and whimsical atmosphere."
+
+您说：
+生成我的世界风格的游戏图片
+ChatGPT 说：
+
+Made with the old version of image generation. New images coming soon.
+这是一个《我的世界》风格的游戏场景，包含了经典的方块元素，树木、动物、房屋和冒险者都以像素化的形式呈现。如果你有任何修改或具体需求，随时告诉我！
+
+您说：
+不是，是参考我的提示词，给出我的世界风格的提示词
+ChatGPT 说：
+"An exquisitely designed Minecraft-inspired game scene featuring blocky, pixelated graphics and adorable animals. In the center, a peaceful group of blocky animals such as a cubic panda, a fluffy fox, a small pig, and a playful wolf are interacting in a vibrant grassy meadow surrounded by cubic trees and pixelated flowers. The backdrop includes rolling hills, a bright blue sky with blocky clouds, and a small wooden house with a chimney. The animals are rendered in charmingly simplified Minecraft-style designs with vibrant colors like soft greens, browns, whites, and light blues, creating a cozy and cheerful atmosphere."
+
+您说：
+给出我的世界风格的游戏UI的提示词，
+ChatGPT 说：
+"Exquisitely designed Minecraft-inspired game UI with blocky, pixelated elements and a vibrant, adventure-themed aesthetic. The interface features clean, square-edged panels resembling stone, wood, and grass textures. At the center, there is a prominent logo with blocky text and pixelated tools like a pickaxe and sword. Health bars appear as red hearts, hunger bars as pixelated meat icons, and inventory slots are neat grids with item icons such as blocks, tools, and food. The color scheme includes earthy tones like greens, browns, and grays, combined with bright highlights for an immersive, playful, and retro visual style."
+
+您说：
+参考Charmingly designed UI for a cozy and vibrant convenience store simulation game, with a cute and inviting atmosphere. At the center, there is an adorable logo featuring a smiling storefront with a striped awning, surrounded by cartoon-style items like snacks, drinks, and a cash register. The color scheme consists of soft pastel greens, warm oranges, and creamy whites, with playful icons like shopping baskets, price tags, and tiny product shelves scattered around.
+
+生成服装店模拟经营游戏提示词
+ChatGPT 说：
+"Charmingly designed UI for a stylish and vibrant clothing store simulation game, with a chic and inviting atmosphere. At the center, there is an adorable logo featuring a cute boutique storefront with a mannequin in a trendy outfit and a striped awning, surrounded by cartoon-style items like hangers, shopping bags, and neatly folded clothes. The color scheme consists of soft pastel pinks, warm yellows, and creamy whites, with playful icons like price tags, sewing machines, and fabric rolls scattered around to enhance the fashionable and cozy vibe."
+
+您说：
+再来一款海上生存游戏的提示词
+ChatGPT 说：
+"Immersively designed UI for an adventurous and vibrant ocean survival game, with a rugged yet inviting atmosphere. At the center, there is a bold logo featuring a makeshift raft with a tattered sail, surrounded by cartoon-style elements like fish, coconuts, and wooden planks. The color scheme consists of deep ocean blues, sandy beiges, and weathered browns, with playful icons such as water droplets for hydration, fishbones for food, and a shark fin circling the edges to add a sense of thrilling adventure."
+
+您说：
+再来一款赛博朋克游戏的提示词
+ChatGPT 说：
+"Futuristically designed UI for a sleek and neon-drenched cyberpunk game, with a gritty yet stylish atmosphere. At the center, there is a bold logo featuring a holographic cityscape with glowing circuit patterns and a vibrant energy core, surrounded by high-tech elements like cybernetic implants, glowing chips, and neon wires. The color scheme consists of electric blues, neon pinks, and dark metallic grays, with edgy icons like digital skulls, energy bars, and futuristic weaponry scattered around, creating a high-tech, dystopian vibe."
+
+您说：
+再来一款横版过关游戏的提示词
+ChatGPT 说：
+"Charmingly designed UI for a vibrant and action-packed side-scrolling platformer game, with a playful and adventurous atmosphere. At the center, there is a dynamic logo featuring a heroic character mid-jump, holding a sword or a power-up, surrounded by cartoon-style elements like coins, treasure chests, and enemies like cute slimes and spiky traps. The color scheme includes bold primary colors like vibrant reds, blues, and yellows, with playful icons such as hearts for health, stars for score, and arrows for navigation, all blending seamlessly into the fast-paced, fun-filled environment."
+
+您说：
+来一款赛车游戏的提示词
+ChatGPT 说：
+"Exhilaratingly designed UI for a high-speed and adrenaline-fueled racing game, with a sleek and competitive atmosphere. At the center, there is a bold logo featuring a roaring race car with flaming tires, surrounded by dynamic elements like checkered flags, speedometers, and tire skid marks. The color scheme includes fiery reds, metallic silvers, and jet blacks, with sharp, edgy icons such as a fuel gauge, turbo boosters, and a lap timer. Neon streaks and motion blur effects emphasize the intensity and thrill of the race."
